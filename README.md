@@ -62,7 +62,6 @@ streamlit run app.py
 1. Push this repository to your GitHub account
 2. Go to [streamlit.io/cloud](https://streamlit.io/cloud)
 3. Connect your GitHub repo and deploy `app.py`
-
 ---
 
 ## 📁 Project Structure
