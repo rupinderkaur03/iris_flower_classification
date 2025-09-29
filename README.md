@@ -78,11 +78,4 @@ iris-svm-streamlit/
 └── README.md             # Project documentation
 ```
 
----
-
-## 👨‍💻 Author
-
-**Gaurav Rayat**
-- 🌐 Portfolio: [https://gauravrayat.me](https://gauravrayat.me)
-
----
+--
