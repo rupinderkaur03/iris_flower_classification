@@ -39,7 +39,7 @@ The app allows users to input flower measurements and instantly get a classifica
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/GAURAV-RAYAT/iris_flower_classification.git
+git clone https://github.com/rupinderkaur03/iris_flower_classification.git
 cd iris_flower_classification
 ```
 
